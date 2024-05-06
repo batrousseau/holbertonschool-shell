@@ -6,3 +6,4 @@ This folder contains multiples script :
 4-listmorefiles : Display current directory contents, including hidden files
 5-listfilesdigitonly : Display current directory contents, with long format and user and group IDs displayed numerically, including hidden files
 6-first directory : Create a directory 'my first directory' in /tmp
+7-movethatfile : Move the file betty from /tmp to /tmp/my_first_directory
