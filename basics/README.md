@@ -11,3 +11,5 @@ This folder contains multiples script :
 9-Firstdirdeletion : Delete the directory my_first_directory that is in the /tmp directory
 10-back : changes the working directory to the previous one
 11-lists : List all files in the current directory, parent directory and boot, even hidden and long format
+12-file_type : prints the type of the file namde iamfile in the /tmp directory
+
