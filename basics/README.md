@@ -13,3 +13,4 @@ This folder contains multiples script :
 11-lists : List all files in the current directory, parent directory and boot, even hidden and long format
 12-file_type : prints the type of the file namde iamfile in the /tmp directory
 13-symbolic_link :' create a symbolic link to /bin/ls n	named _ls_' 
+14-copy_html : copy all new html file from the current directory to it parent
